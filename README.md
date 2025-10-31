@@ -21,13 +21,3 @@ git commit -m "feat(ui): adicionar interface de pesquisa por sexo do cliente"
 git commit -m "style(css): aplicar estilo básico à tabela de resultados"
 git commit -m "feat(core): implementar busca e exibição de resultados no PHP"
 ```
-
-## 🌐 Deploy no InfinityFree
-
-1. Acesse o painel InfinityFree → File Manager → `htdocs`.
-2. Envie todos os arquivos deste projeto.
-3. Crie um banco MySQL e importe `banco.sql` via phpMyAdmin.
-4. Edite `conectar.php` com host, usuário, senha e nome do banco.
-5. Acesse seu domínio e teste `pesquisa.html`.
-
-Pronto 🎯 Seu projeto estará funcionando online!
